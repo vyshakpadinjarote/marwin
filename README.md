@@ -7,3 +7,13 @@ MARWIN is intended to be one of the first opensource DIY space rover projects wh
 
 MARWIN intends to reduce the manufacturing cost and development time of rovers by implementing a quick and standardized design approach which could be customized very easily.
 
+## Implementation Plan
+
+1.Rocker-Bogie system with RC .
+2.Scientific equipments ( sensor clusters).
+3.Power management system.
+4.Autonomous navigation.
+5.Video streaming and analysis.
+6.Testing and analysis.
+7.Modification and finalizing the design.
+
