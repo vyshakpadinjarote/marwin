@@ -9,11 +9,18 @@ MARWIN intends to reduce the manufacturing cost and development time of rovers b
 
 ## Implementation Plan
 
-1.Rocker-Bogie system with RC .
+1.Rocker-Bogie system with RC.
+
 2.Scientific equipments ( sensor clusters).
+
 3.Power management system.
+
 4.Autonomous navigation.
+
 5.Video streaming and analysis.
+
 6.Testing and analysis.
+
 7.Modification and finalizing the design.
+
 
