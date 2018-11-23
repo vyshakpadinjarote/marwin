@@ -15,6 +15,6 @@ MARWIN intends to reduce the manufacturing cost and development time of rovers b
 * Autonomous navigation.
 * Video streaming and analysis.
 * Testing and analysis.
-*Modification and finalizing the design.
+* Modification and finalizing the design.
 
 
