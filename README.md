@@ -46,7 +46,6 @@ Input power: 5V/2.5A DC via microUSB connector, 5V DC via GPIO header, Power ove
 
 Environment: Operating temperature 0 - 50C
 
-Raspbery Pi 3 B+ : 
-![alt text][logo]
+Raspbery Pi 3 B+ :  
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Raspberry_Pi_3_illustration.svg/2000px-Raspberry_Pi_3_illustration.svg.png "Logo Title Text 1")
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Raspberry_Pi_3_illustration.svg/2000px-Raspberry_Pi_3_illustration.svg.png "R Pi # B+"
