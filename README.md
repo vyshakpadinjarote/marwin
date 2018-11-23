@@ -19,7 +19,53 @@ MARWIN intends to reduce the manufacturing cost and development time of rovers b
 
 ## ESP32
 ### Specs
-32 bit dual core CPUs clocked at 160Mz/240Mhz
+
+CPU: Xtensa dual-core (or single-core) 32-bit LX6 microprocessor, operating at 160 or 240 MHz and performing at up to 600 DMIPS
+
+Memory: 520 KiB SRAM
+
+Wireless connectivity:
+
+Wi-Fi: 802.11 b/g/n
+
+Bluetooth: v4.2 BR/EDR and BLE
+
+Peripheral interfaces:
+
+12-bit SAR ADC up to 18 channels
+
+2 × 8-bit DACs
+
+10 × touch sensors (capacitive sensing GPIOs)
+
+Temperature sensor
+
+4 × SPI
+
+2 × I²S interfaces
+
+2 × I²C interfaces
+
+3 × UART
+
+SD/SDIO/CE-ATA/MMC/eMMC host controller
+
+SDIO/SPI slave controller
+
+Ethernet MAC interface with dedicated DMA and IEEE 1588 Precision Time Protocol support
+
+CAN bus 2.0
+
+Infrared remote controller (TX/RX, up to 8 channels)
+
+Motor PWM
+
+LED PWM (up to 16 channels)
+
+Hall effect sensor
+
+Ultra low power analog pre-amplifier
+
 
 ESP32 : 
 ![alt text][logo]
@@ -29,7 +75,9 @@ ESP32 :
 ## Raspbery Pi 3 B/B+
 ### Specs
 Processor: Broadcom BCM2837B0, quad-core A53 (ARMv8) 64-bit SoC @1.4GHz
+
 Memory: 1GB LPDDR2 SDRAM
+
 Connectivity: 2.4GHz and 5GHz IEEE 802.11 b/g/n/ac wireless LAN, Bluetooth 4.2, BLE. Gigabit Ethernet over USB 2.0 (maximum throughput of 300Mbps).
 
 USB: 4 x 2.0
