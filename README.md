@@ -97,3 +97,6 @@ Environment: Operating temperature 0 - 50C
 Raspbery Pi 3 B+ :  
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Raspberry_Pi_3_illustration.svg/2000px-Raspberry_Pi_3_illustration.svg.png "Logo Title Text 1")
 
+# Rover Actions Flowchart:
+
+![alt text](https://www.researchgate.net/profile/Nathalie_Mitton/publication/282195030/figure/fig5/AS:325787430473733@1454685184598/Rover-actions-Flowchart.png)
