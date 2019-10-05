@@ -1,4 +1,4 @@
-# MARWIN
+## MARWIN
 An Open Source Rapid Deployable DIY MARS Rover
 
 ## Abstract
